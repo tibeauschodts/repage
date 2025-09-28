@@ -64,13 +64,6 @@ a:active, a:focus, a:hover {
   top: 1.5rem;
 }
 
-.logo-container .logo-name {
-  margin: 0;
-  font-family: Outfit, sans-serif;
-  font-size: 2.6rem;
-  font-weight: 400;
-}
-
 footer {
   position: absolute;
   bottom: 1.5rem;
